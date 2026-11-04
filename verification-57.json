@@ -1,0 +1,14 @@
+{
+  "version": "0.18.25",
+  "build": "57",
+  "bundle": "br.com.atacadaoaperibe.repositor",
+  "bytes": 11853287,
+  "sha256": "3cacf123bc1401dfd427f720e46e4a1e8e6ab736751b7bc0162fd111306836a8",
+  "signatureVerified": true,
+  "registeredDevices": 6,
+  "profileExpires": "2027-10-05T18:41:52Z",
+  "kauaLawannIncluded": true,
+  "claraIncluded": true,
+  "yasmimIncluded": true,
+  "oldDevicesPreserved": true
+}
